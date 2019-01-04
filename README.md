@@ -5,6 +5,8 @@ Resources for Podcast for Malawian devs #ossfriday #micropodcast
 This is the companion repo for the Open Source Friday podcast for the GeekQuest Whatsapp group.
 Will be posting links here from the episodes and other resources:
 
+> **NOTE**: This is a hobby project and hopefully will encourage more Malawian developers to contribute more to Open Source overtime. Because of my limited knowledge I may be wrong about some things, so you can call me out on that (nicely) or if you have ideas about how I can improve this show please drop me an e-mail.
+
 ## Episode 0: Getting Started
 
 Links:
